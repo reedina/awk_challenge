@@ -1,0 +1,3 @@
+monday mon
+tuesday tue
+wednesday wed

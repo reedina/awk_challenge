@@ -1,0 +1,8 @@
+BEGIN {
+array[0]="one";
+array[1]="two";
+array[2]="three";
+printf "array length: %d\n", length(array);
+total = length(array);
+for (i = 0; i < total; i++) printf "index: %d value: %s\n", i, array[i]; 
+}
